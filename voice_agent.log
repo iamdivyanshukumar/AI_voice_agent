@@ -1,0 +1,7 @@
+2025-05-20 15:05:41,401 - __main__ - INFO - Database initialized
+2025-05-20 15:06:54,067 - httpx - INFO - HTTP Request: GET https://api.elevenlabs.io/v1/voices?show_legacy=true "HTTP/1.1 200 OK"
+2025-05-20 15:06:55,190 - httpx - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM?optimize_streaming_latency=0&output_format=mp3_44100_128 "HTTP/1.1 200 OK"
+2025-05-20 15:06:55,206 - __main__ - ERROR - Error in outbound call handling for call 9d586023-7ddf-47b1-b55c-9b5a1dd9f77a: 'Session' object is not an iterator
+2025-05-20 15:07:31,652 - httpx - INFO - HTTP Request: GET https://api.elevenlabs.io/v1/voices?show_legacy=true "HTTP/1.1 200 OK"
+2025-05-20 15:07:32,694 - httpx - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM?optimize_streaming_latency=0&output_format=mp3_44100_128 "HTTP/1.1 200 OK"
+2025-05-20 15:07:32,716 - __main__ - ERROR - Error in outbound call handling for call ee56139d-ce94-4158-80c3-d167ba3bf2b8: 'Session' object is not an iterator

@@ -6,3 +6,15 @@ deepgram-sdk
 openai
 httpx
 requests
+
+fastapi==0.104.1
+uvicorn==0.23.2
+sqlalchemy==2.0.22
+python-dotenv==1.0.0
+httpx==0.25.0
+pydantic==2.4.2
+elevenlabs==0.2.24
+deepgram-sdk==2.11.0
+openai==0.28.1
+twilio==8.9.1
+gunicorn==21.2.0
